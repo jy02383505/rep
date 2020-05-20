@@ -18,7 +18,7 @@ setup(
     install_requires=[
 
         'simplejson==3.16.0',
-        'httplib2==0.9',
+        'httplib2==0.18.0',
         'pymongo==3.0.2',
         'redis==2.10.6'
         # 'paramiko==1.15.2',
